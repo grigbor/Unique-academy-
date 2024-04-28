@@ -1,0 +1,27 @@
+.bb{
+    height: 100px;
+    background-color: #dbfe01;
+    align-items: center;
+    display: flex;
+ }
+ .jjs{
+    margin-left: 100px;
+ }
+ .ygh{
+    width: 100px;
+    height: 100px;
+    background-image: url("./a90e796233ae.png");
+    background-size: cover;
+    background-position: center;
+    margin-right: 23px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+ }
+.aaaa{
+    color: #fff;
+    background-color: #000;
+    border-radius: 5px;
+    border: solid #fff 3px;
+    padding: 10px 20px 10px 20px;
+    margin-right: 50px;
+}
