@@ -1,0 +1,63 @@
+.body{background-color: #f9ffd1;
+   height: 395px;}
+
+.d{background-color: black;
+   border-top-left-radius:85px ;
+   border-top-right-radius:85px;
+   display: flex;
+   height: 390px;}
+
+
+.logoUNI{position: absolute;
+      height: 50px;
+      left: 229px;
+      top: 58px;}
+
+.email{top:150px;
+      left: 280px;
+      height: 40px;
+      position: absolute;
+      color: white;}
+
+.emailLOGO{top: 150px;
+      left: 229px;
+      Height:16px;
+      position: absolute;}
+   
+.button{width: 200;
+      position: absolute;
+      top: 110px;
+      left: 900px;    
+      padding: 10px;
+      border-radius: 90px;
+      border: 2px solid #ffffff;
+      color:#ffffff;}
+   
+
+.button2{background-color: #dbfe01;
+      width: 200;
+      position: absolute;
+      top: 110px;
+      left: 1190px;
+      padding: 10px;
+      border-radius: 90px;}
+
+.school{color: ffffff;
+      top: 170px;
+      left: 900px;
+      position: absolute;}
+
+.kursi{color: ffffff;
+   top: 170px;
+   left: 1050px;
+   position: absolute;}
+
+.dostizenia{color: ffffff;
+   top: 170px;
+   left: 1180px;
+   position: absolute;}
+
+.contact{color: ffffff;
+   top: 170px;
+   left: 1350px;
+   position: absolute;}
